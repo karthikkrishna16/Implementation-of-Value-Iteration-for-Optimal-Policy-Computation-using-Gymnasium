@@ -149,8 +149,8 @@ def value_iteration(env, gamma=0.99, theta=1e-8):
 # PART 1: BEFORE CHANGING (Standard Configuration)
 # =================================================
 print("\n--- PART 1: BEFORE CHANGING (Standard Layout) ---")
-print("Name: Anto Williams")
-print("Register Number: 212224240012")
+print("Name: TH KARTHIK KRISHNA")
+print("Register Number: 212223240067")
 print("-" * 50)
 
 standard_desc = [
