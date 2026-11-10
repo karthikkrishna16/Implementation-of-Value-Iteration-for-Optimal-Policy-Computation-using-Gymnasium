@@ -153,7 +153,7 @@ env.close()
 
 ## Output
 
-<img width="1051" height="611" alt="image" src="https://github.com/user-attachments/assets/dbec5d97-5511-4695-8298-e6f38ebaf40b" />
+![Uploading image.png…]()
 
 ## Result
 
