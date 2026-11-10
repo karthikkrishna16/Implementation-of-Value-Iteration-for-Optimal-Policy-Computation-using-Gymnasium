@@ -179,8 +179,8 @@ env_std.close()
 # PART 2: AFTER CHANGING (Customized Layout)
 # =================================================
 print("\n--- PART 2: AFTER CHANGING (Customized Layout) ---")
-print("Name: Anto Williams")
-print("Register Number: 212224240012")
+print("Name: TH KARTHIK KRISHNA")
+print("Register Number: 212223240067")
 print("-" * 50)
 
 env_desc = [
